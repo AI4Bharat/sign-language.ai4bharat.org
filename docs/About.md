@@ -1,6 +1,6 @@
 # About us
 
-About AI4Bharat ISL group???
+Something about us
 
 # Team
 
