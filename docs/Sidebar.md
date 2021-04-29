@@ -1,4 +1,4 @@
 - [Introduction](/)
-- [ISL Lexicon Dataset (Previous Work)](/INCLUDE.md)
+- [Previous Work - INCLUDE](/INCLUDE.md)
 - [Project Plan](/cslr/Plan.md)
 - [About Us](/About.md)
