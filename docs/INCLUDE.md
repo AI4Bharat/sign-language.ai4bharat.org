@@ -2,7 +2,7 @@
 
 Read more about our previous work, INCLUDE, [here](https://ai4bharat.org/include-dataset)  
 
-[Original Publication](https://dl.acm.org/doi/10.1145/3394171.3413528)
+You can find the research publication [here](https://dl.acm.org/doi/10.1145/3394171.3413528)
 
 ## Downloads
 
