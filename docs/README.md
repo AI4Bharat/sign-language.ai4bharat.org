@@ -3,6 +3,7 @@
 The ASSIST project aims to make the world more accessible by helping the Deaf and Hard of Hearing DHH) community in India. Our aim is to build an AI powered Indian Sign Language (ISL) Translator, to enable easier communication between the DHH and hearing communities in work places. 
 
 <img src="https://s01.sgp1.digitaloceanspaces.com/facebook/847575-65965-wjmctjrbqs-1502978910.jpg" width="800" float="center" alt="ISL Teacher" />
+<p style="text-align: center; font-style: italic;"> Image courtesy Prakash Singh, scroll.in </p>
 
 Our plan was decided based on feedback obtained from the deaf community, and we seek to involve them in all our decisions. Based on a survey we conducted amongst the DHH community, we learnt that:
 
