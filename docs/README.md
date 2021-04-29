@@ -1,11 +1,14 @@
-# Indian Sign Language (Background)
+# The ASSIST Project
 
-The Deaf and Hard of Hearing (DHH) community is 50 lakhs strong in India. This community relies on sign language for communication. Indian Sign Language (ISL) is a well-developed and complete language with its own grammar, syntax, vocabulary, and other linguistic attributes, which are quite different from say the American Sign Language (ASL).
-
+The ASSIST project aims to make the world more accessible by helping the Deaf and Hard of Hearing DHH) community in India. <sign language recognition for workplaces>
 
 ![ISL Teacher](https://s01.sgp1.digitaloceanspaces.com/facebook/847575-65965-wjmctjrbqs-1502978910.jpg "Image courtesy Prakash Singh, scroll.in")
 
+Why?
 
-<p> However, India has very few certified ISL teachers numbering only in the thousands. This severe shortage significantly reduces the access to education: Less than 1% of the DHH community goes through formal ISL training. This challenge is further amplified by a lack of awareness within the general populace about basic sign language. In total, the DHH community finds communication amongst them and with others a big challenge to overcome on a daily basis. </p>
-<p>This lack of formal education has an immediate and adverse impact on employability. Within the DHH community, the employment rate (amongst those seeking jobs actively) is an abysmally low <b>24%</b>. Further, employers in India have not yet built the capacity to enable Deaf people to work and succeed in their organizations, further impacting employability. </p>
-<p> In summary, the DHH community faces a significant challenge due to low access to formal education, limited opportunities for employment, and almost negligible awareness of these challenges amongst the populace and employers. </p>
+1. Our survey shows that 75% of the DHH community have problems at the workplace. This is higher than any other situation, such as banks, while shopping, at restaurants, with family etc.
+2. Communication is the biggest issue for them while working, as 78% of the DHH community prefers using sign language to communicate. This means that they cant communicate with hearing people (as hearing people are ISL inaccessible). Our survey tells the same story, with 50% saying they cant talk to hearing people, and the rest being able to communicate only with their interpeter
+
+This problem of communication can be fixed by having an auto-interpreter
+
+The survey shows that 70% of DHH community works from home now, expected to continue post pandemic. Work from home communication happens over video calls, which can be easily integrated with auto-interpreter tech. Whatsapp, Zoom and Microsoft Teams are the 3 most used video calling apps, and we shall start with Microsoft Teams. 
