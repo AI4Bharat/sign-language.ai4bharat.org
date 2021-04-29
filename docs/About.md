@@ -1,6 +1,6 @@
 # About us
 
-AI4Bharat is a voluntary community. In case you'd like to join us, please fill in <a href="https://ai4bharat.org/join-us">this form. </a>
+AI4Bharat is a voluntary community. Our team consists of students, professionals and NGOs from all around the world
 
 # Team
 
