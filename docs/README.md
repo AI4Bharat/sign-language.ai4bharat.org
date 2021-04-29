@@ -3,7 +3,7 @@
 The Deaf and Hard of Hearing (DHH) community is 50 lakhs strong in India. This community relies on sign language for communication. Indian Sign Language (ISL) is a well-developed and complete language with its own grammar, syntax, vocabulary, and other linguistic attributes, which are quite different from say the American Sign Language (ASL).
 
 
-
+![ISL Teacher](https://s01.sgp1.digitaloceanspaces.com/facebook/847575-65965-wjmctjrbqs-1502978910.jpg "Image courtesy Prakash Singh, scroll.in")
 <img src="https://s01.sgp1.digitaloceanspaces.com/facebook/847575-65965-wjmctjrbqs-1502978910.jpg" alt="ISL Teacher" margin-left:auto margin-right:auto width:50% display:block>
 <center>(Image courtesy Prakash Singh, scroll.in)</center>
 
