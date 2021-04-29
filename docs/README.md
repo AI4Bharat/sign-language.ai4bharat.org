@@ -6,11 +6,16 @@ The ASSIST project aims to make the world more accessible by helping the Deaf an
 
 Our plan was decided based on feedback obtained from the deaf community, and we seek to involve them in all our decisions. Based on a survey we conducted amongst the DHH community, we learnt that:
 
-![Difficulty in communicating in different places](./images/Difficulties.png)
+![Difficulty in communicating in different places Chart](./images/Difficulties.png)
 
-1. Our survey shows that 75% of the DHH community have problems at the workplace. This is higher than any other situation, such as banks, while shopping, at restaurants, with family etc.
-2. Communication is the biggest issue for them while working, as 78% of the DHH community prefers using sign language to communicate. This means that they cant communicate with hearing people (as hearing people are ISL inaccessible). Our survey tells the same story, with 50% saying they cant talk to hearing people, and the rest being able to communicate only with their interpeter
+Our survey shows that DHH community faces the biggest challenge at the workplace, with 56% of participants reporting difficulties there. Workplace difficulties rank higher than any other situation - such as banks, while shopping, at restaurants, with family etc.
 
-This problem of communication can be fixed by having an auto-interpreter
+![Talking to others Chart](./images/talking_to_others.png)
 
-The survey shows that 70% of DHH community works from home now, expected to continue post pandemic. Work from home communication happens over video calls, which can be easily integrated with auto-interpreter tech. Whatsapp, Zoom and Microsoft Teams are the 3 most used video calling apps, and we shall start with Microsoft Teams. 
+Communication is the biggest challenge for the deaf community at work. By conducting interviews with deaf participants, we learnt that they find it difficult to talk to their hearing managers and colleagues. The community is only able to talk to an interpreter or to other deaf colleagues, and this prevents them from being able to talk about serious work issues such as appraisals, promotions, salary hikes and other work-related matters. 
+
+![ISL Usage at work Chart](./images/ISL_at_work.png)
+
+Interestingly, 78% of our survey respondents said they use sign language at work. This clearly shows that their preferred means of communication at work is through ISL, even if it difficult for the hearing community to understand them today. 
+
+Therefore, we aim to build a solution that allows the DHH community to continue conversing in their preferred medium of sign language, while also allowing the hearing community to understand them easily. With the rise of video calling applications and work-from-home, we believe that inegrating a sign language interpreter into video calling apps like Microsoft Teams should should ease the problem of workplace communication, and level the playing field for the DHH community at work.  
