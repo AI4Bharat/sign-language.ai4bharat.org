@@ -9,6 +9,8 @@ AI4Bharat is a voluntary community. In case you'd like to join us, please fill i
     <td align="center"><a href="http://github.com/gRohith327"><img src="https://avatars0.githubusercontent.com/u/36641932?v=4" width="100px;" alt=""/><br /><sub><b>Rohith Gandhi Ganesan</b></sub></a></td>
     <td align="center"><a href="https://github.com/ads97"><img src="https://avatars0.githubusercontent.com/u/36174577?v=4" width="100px;" alt=""/><br /><sub><b>Advaith Sridhar</b></sub></a></td>
     <td align="center"><a href="https://github.com/Pavi114"><img src="https://avatars.githubusercontent.com/u/44777563?v=4" width="100px;" alt=""/><br /><sub><b>Pavithra S</b></sub></a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/abdur-cool"><img src="https://avatars.githubusercontent.com/u/59405879?v=4" width="100px;" alt=""/><br /><sub><b>Abdur Rahman</b></sub></a></td>
     <td align="center"><a href="https://github.com/roshni-poddar"><img src="https://avatars.githubusercontent.com/u/41294786?v=4" width="100px;" alt=""/><br /><sub><b>Roshni Poddar</b></sub></a></td>
     <td align="center"><a href="https://github.com/aravint-annamalai"><img src="https://avatars.githubusercontent.com/u/58785632?v=4" width="100px;" alt=""/><br /><sub><b>Aravint Annamalai</b></sub></a></td>
