@@ -7,7 +7,7 @@ The ASSIST project aims to make the world more accessible by helping the Deaf an
 
 Our plan was decided based on feedback obtained from the deaf community, and we seek to involve them in all our decisions. Based on a survey we conducted amongst the DHH community, we learnt that:
 
-<img src="./images/Difficulties.png" width="800" float="center" alt="Difficulties faced Chart" />
+<img src="./images/Difficulties_dark.png" width="800" float="center" alt="Difficulties faced Chart" />
 
 Our survey shows that DHH community faces the biggest challenge at the workplace, with 56% of participants reporting difficulties there. Workplace difficulties rank higher than any other situation - such as banks, while shopping, at restaurants, with family etc.
 
