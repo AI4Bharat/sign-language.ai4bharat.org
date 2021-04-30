@@ -1,5 +1,5 @@
 - [Introduction](/)
-- [Previous Work - INCLUDE](/INCLUDE.md)
 - [Project Plan](/cslr/Plan.md)
+- [Previous Work - INCLUDE](/INCLUDE.md)
 - [Careers/Interns](/joinus.md)
 - [About Us](/About.md)
