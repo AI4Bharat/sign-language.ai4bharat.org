@@ -1,13 +1,13 @@
 # INCLUDE: A Large Scale Dataset for Isolated Indian Sign Language Recognition
 
-Read more about our previous work, INCLUDE, [here](https://ai4bharat.org/include-dataset)  
+Read more about our previous work, INCLUDE, <a href="https://ai4bharat.org/include-dataset" style="color:#0B87DA">here</a>  
 
-You can find the research publication [here](https://dl.acm.org/doi/10.1145/3394171.3413528)
+You can find the research publication <a href="https://dl.acm.org/doi/10.1145/3394171.3413528" style="color:#0B87DA">here</a>
 
 ## Downloads
 
-- [Dataset](https://zenodo.org/record/4010759)
-- [Baseline models and code](https://github.com/AI4Bharat/INCLUDE)
+- <a href="https://zenodo.org/record/4010759" style="color:#0B87DA">Dataset</a>
+- <a href="https://github.com/AI4Bharat/INCLUDE" style="color:#0B87DA">Baseline models and code</a>
 
 ## Citation
 
