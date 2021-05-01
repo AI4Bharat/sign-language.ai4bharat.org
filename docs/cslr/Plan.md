@@ -11,7 +11,7 @@ The first aim is to understand the challenges faced by the DHH community better.
 
 <h2>ASSIST - A Dataset for Workplace Communication</h2>
 ![video dataset example](../images/dataset.gif)  
-
+<img src="../images/dataset.gif" width="200" height="200" />
 Once the context and the typical conversations have been identified, we will focus on data collection, i.e., recording videos of signers signing the different turns in the conversations. We call this dataset <i>ASSIST</i> and target for it to be the largest dataset in any sign language in the world, positioning such favourably to train the most accurate AI models for sign language recognition.
 
 <h2>Build AI models for live sign language recognition on Microsoft Teams </h2>
