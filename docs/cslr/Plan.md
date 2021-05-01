@@ -1,6 +1,17 @@
 <h1>Our Aim</h1>
 To build an AI powered real-time sign language translator, to help the deaf and hearing community talk to each other easily.
 <h1>Our Proposal</h1>
+
+<h2>ASSIST - A Dataset for Workplace Communication</h2>  
+<img src="../images/dataset.gif" float="center" alt="video dataset example" />  
+<p style="text-align: center; font-style: italic;"> Example video from our dataset</p>
+Once the context and the typical conversations have been identified, we will focus on data collection, i.e., recording videos of signers signing the different turns in the conversations. We call this dataset <i>ASSIST</i> and target for it to be the largest dataset in any sign language in the world, positioning such favourably to train the most accurate AI models for sign language recognition.
+
+<h2>Build AI models for live sign language recognition on Microsoft Teams </h2>
+<img src="../images/dataset.gif" float="center" alt="translation example" />  
+<p style="text-align: center; font-style: italic;"> Processing videos with our AI models</p>
+Video conferencing tools, such as Microsoft Teams, have become a primary source of communication for white-collar employees in the post-pandemic reality. To enable seamless real-time conversation between Deaf and able persons, we will build AI models which that can transcribe in real-time signed gestures. Such real-time transcription can significantly reduce barriers to communicate and enable a wider range of people with no exposure to sign language to effectively communicate with Deaf people.  
+
 <h2>HCI Research - How can AI models help the DHH community</h2>
 The first aim is to understand the challenges faced by the DHH community better. In order to do that, we will: <br>
 <ul>
@@ -8,14 +19,6 @@ The first aim is to understand the challenges faced by the DHH community better.
 <li> Report on the most important contexts where AI models can meaningfully support the DHH community </li>
 <li> Curate a large number of templates of typical multi-turn conversations in the identified contexts </li>
 </ul>
-
-<h2>ASSIST - A Dataset for Workplace Communication</h2>  
-<img src="../images/dataset.gif" float="center" alt="video dataset example" />
-Once the context and the typical conversations have been identified, we will focus on data collection, i.e., recording videos of signers signing the different turns in the conversations. We call this dataset <i>ASSIST</i> and target for it to be the largest dataset in any sign language in the world, positioning such favourably to train the most accurate AI models for sign language recognition.
-
-<h2>Build AI models for live sign language recognition on Microsoft Teams </h2>
-
-Video conferencing tools, such as Microsoft Teams, have become a primary source of communication for white-collar employees in the post-pandemic reality. To enable seamless real-time conversation between Deaf and able persons, we will build AI models which that can transcribe in real-time signed gestures. Such real-time transcription can significantly reduce barriers to communicate and enable a wider range of people with no exposure to sign language to effectively communicate with Deaf people.  
 
 <h1>The social impact that we want to create</h1>
 As mentioned, India is significantly behind in building capacity for formal education in ISL, in employers having the support systems to hire Deaf people, and in building datasets and AI models to provide the technological support to the DHH community. We aim to change this significantly with impact on the following three axes:
