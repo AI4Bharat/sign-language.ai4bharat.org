@@ -1,6 +1,6 @@
 # Funding
 
-<img src="images/microsoft.jpg" width="200" alt="Microsoft Logo" align="left"/>
+<img src="images/microsoft.jpg" width="150" alt="Microsoft Logo" float="center"/>
 We're thankful to be recipients of Microsoft's AI For Accessibility grant 2021.
 
 
