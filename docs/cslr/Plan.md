@@ -3,7 +3,7 @@ To build an AI powered real-time sign language translator, to help the deaf and 
 <h1>Our Proposal</h1>
 
 <h2>ASSIST - A Dataset for Workplace Communication</h2>  
-<img src="../images/dataset.gif" float="center" alt="video dataset example" />  
+<img src="../images/dataset.gif"  style="float: center;" alt="video dataset example" />  
 <p style="text-align: center; font-style: italic;"> Example video from our dataset</p>
 Once the context and the typical conversations have been identified, we will focus on data collection, i.e., recording videos of signers signing the different turns in the conversations. We call this dataset <i>ASSIST</i> and target for it to be the largest dataset in any sign language in the world, positioning such favourably to train the most accurate AI models for sign language recognition.
 
