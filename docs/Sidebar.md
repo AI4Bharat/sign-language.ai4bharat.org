@@ -2,4 +2,5 @@
 - [Project Plan](/cslr/Plan.md)
 - [Previous Work - INCLUDE](/INCLUDE.md)
 - [Careers/Interns](/joinus.md)
+- [Partners](/partners.md)
 - [About Us](/About.md)
