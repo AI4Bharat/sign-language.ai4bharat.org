@@ -8,7 +8,7 @@ To build an AI powered real-time sign language translator, to help the deaf and 
 Once the context and the typical conversations have been identified, we will focus on data collection, i.e., recording videos of signers signing the different turns in the conversations. We call this dataset <i>ASSIST</i> and target for it to be the largest dataset in any sign language in the world, positioning such favourably to train the most accurate AI models for sign language recognition.
 
 <h2>Build AI models for live sign language recognition on Microsoft Teams </h2>
-<img src="../images/translated_video.gif" float="center" alt="translation example" />     
+<div style="text-align: center"><img src="../images/translated_video.gif" alt="translation example" /></div>   
 <p style="text-align: center; font-style: italic;"> Processing videos with our AI models</p>
 Video conferencing tools, such as Microsoft Teams, have become a primary source of communication for white-collar employees in the post-pandemic reality. To enable seamless real-time conversation between Deaf and able persons, we will build AI models which that can transcribe in real-time signed gestures. Such real-time transcription can significantly reduce barriers to communicate and enable a wider range of people with no exposure to sign language to effectively communicate with Deaf people.  
 
