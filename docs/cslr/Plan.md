@@ -9,6 +9,7 @@ Once the context and the typical conversations have been identified, we will foc
 
 <h2>Build AI models for live sign language recognition on Microsoft Teams </h2>
 <img src="../images/translated_video.gif" float="center" alt="translation example" />  
+<img src="../images/translated_video.gif" display:block margin-left:auto margin-right:auto alt="translation example" /> 
 <p style="text-align: center; font-style: italic;"> Processing videos with our AI models</p>
 Video conferencing tools, such as Microsoft Teams, have become a primary source of communication for white-collar employees in the post-pandemic reality. To enable seamless real-time conversation between Deaf and able persons, we will build AI models which that can transcribe in real-time signed gestures. Such real-time transcription can significantly reduce barriers to communicate and enable a wider range of people with no exposure to sign language to effectively communicate with Deaf people.  
 
