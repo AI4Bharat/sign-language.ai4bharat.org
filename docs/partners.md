@@ -5,7 +5,6 @@
 
 
 # Partners
-Our Partners are
 
 <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/" style="color:#0B87DA">Microsoft R&D India</a>  
 
