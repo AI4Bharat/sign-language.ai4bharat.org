@@ -31,4 +31,4 @@ As mentioned, India is significantly behind in building capacity for formal educ
 <li> Build a usable, effective, and continuously improving tool for sign language communication on a video calling application (like Microsoft Teams) for the context of workplace communication. </li>
 </ol>
 
-<i>All our work is and will always remain in the open-source. </i>
+<i>All our work is and will always remain open-source. </i>
