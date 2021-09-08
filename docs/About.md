@@ -22,6 +22,7 @@ AI4Bharat is a voluntary community. Our team consists of students, professionals
     <td align="center"><a href="http://github.com/gRohith327"><img src="https://avatars0.githubusercontent.com/u/36641932?v=4" width="100px;" alt=""/><br /><sub><b>Rohith Gandhi Ganesan</b></sub></a></td>
   </tr>
  </table>
+ 
 ## Project Lead
 <table>
   <tr>
