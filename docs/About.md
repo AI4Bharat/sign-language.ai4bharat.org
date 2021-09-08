@@ -32,7 +32,7 @@ AI4Bharat is a voluntary community. Our team consists of students, professionals
   </tr>
  </table>
  
-# Contact us
+<h1>Contact us</h1>
 
 Please raise an issue on our GitHub repo for technical clarifications.  
 For general queries, please write to advaith@ai4bharat.org
