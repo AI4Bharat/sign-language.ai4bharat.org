@@ -29,6 +29,7 @@ AI4Bharat is a voluntary community. Our team consists of students, professionals
     <td align="center"><a href="https://github.com/ads97"><img src="https://avatars0.githubusercontent.com/u/36174577?v=4" width="100px;" alt=""/><br /><sub><b>Advaith Sridhar</b></sub></a></td>
   </tr>
  </table>
+ 
 # Contact us
 
 Please raise an issue on our GitHub repo for technical clarifications.  
