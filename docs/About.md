@@ -6,8 +6,6 @@ AI4Bharat is a voluntary community. Our team consists of students, professionals
 
 <table>
   <tr>
-    <td align="center"><a href="http://github.com/gRohith327"><img src="https://avatars0.githubusercontent.com/u/36641932?v=4" width="100px;" alt=""/><br /><sub><b>Rohith Gandhi Ganesan</b></sub></a></td>
-    <td align="center"><a href="https://github.com/ads97"><img src="https://avatars0.githubusercontent.com/u/36174577?v=4" width="100px;" alt=""/><br /><sub><b>Advaith Sridhar</b></sub></a></td>
     <td align="center"><a href="https://github.com/abdur-cool"><img src="https://avatars.githubusercontent.com/u/59405879?v=4" width="100px;" alt=""/><br /><sub><b>Abdur Rahman</b></sub></a></td>
   </tr>
   <tr>
@@ -20,6 +18,18 @@ AI4Bharat is a voluntary community. Our team consists of students, professionals
   </tr>
 </table>
 
+## Technical Lead
+<table>
+  <tr>
+    <td align="center"><a href="http://github.com/gRohith327"><img src="https://avatars0.githubusercontent.com/u/36641932?v=4" width="100px;" alt=""/><br /><sub><b>Rohith Gandhi Ganesan</b></sub></a></td>
+  </tr>
+ </table>
+## Project Lead
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ads97"><img src="https://avatars0.githubusercontent.com/u/36174577?v=4" width="100px;" alt=""/><br /><sub><b>Advaith Sridhar</b></sub></a></td>
+  </tr>
+ </table>
 # Contact us
 
 Please raise an issue on our GitHub repo for technical clarifications.  
