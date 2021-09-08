@@ -17,6 +17,7 @@ AI4Bharat is a voluntary community. Our team consists of students, professionals
 </table>
 
 ## Technical Lead
+
 <table>
   <tr>
     <td align="center"><a href="http://github.com/gRohith327"><img src="https://avatars0.githubusercontent.com/u/36641932?v=4" width="100px;" alt=""/><br /><sub><b>Rohith Gandhi Ganesan</b></sub></a></td>
@@ -24,6 +25,7 @@ AI4Bharat is a voluntary community. Our team consists of students, professionals
  </table>
  
 ## Project Lead
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ads97"><img src="https://avatars0.githubusercontent.com/u/36174577?v=4" width="100px;" alt=""/><br /><sub><b>Advaith Sridhar</b></sub></a></td>
