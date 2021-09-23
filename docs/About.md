@@ -24,7 +24,7 @@ AI4Bharat is a voluntary community. Our team consists of students, professionals
   </tr>
  </table>
  
-<h2>Project Lead</h2>
+<h2>Founding Project Lead</h2>
 
 <table>
   <tr>
