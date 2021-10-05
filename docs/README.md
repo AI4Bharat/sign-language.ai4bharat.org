@@ -4,8 +4,8 @@ The ASSIST project aims to make the world more accessible by helping the Deaf an
 
 We're thankful to be recipients of Microsoft's AI For Accessibility Grant, 2021. To know more about our plans for the year, check out our <a href="/cslr/Plan.md" style="color:#0B87DA">Project Plan</a>
 
-<img src="https://s01.sgp1.digitaloceanspaces.com/facebook/847575-65965-wjmctjrbqs-1502978910.jpg" width="800" float="center" alt="ISL Teacher" />
-<p style="text-align: center; font-style: italic;"> Image courtesy Prakash Singh, scroll.in </p>
+<img src="./images/NISH_Course_Graduation.jpg" width="800" float="center" alt="Workplace English Graduation Ceremony" />
+<p style="text-align: center; font-style: italic;"> Participants of our educational course on teaching Workplace English to the Deaf </p>
 
 We seek to involve the DHH community in all our decisions. By conducting surveys and interviewing deaf participants, we learnt that:
 
