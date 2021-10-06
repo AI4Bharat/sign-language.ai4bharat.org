@@ -1,7 +1,3 @@
-# Indo Continuous Sign Language Recognition
+# Indian Sign Language
 
-[Project Website](https://sign-language.ai4bharat.org)
-
-- Push all code here finally.
-- Add checkpoints to GitHub Releases.
-- Release dataset through Zenodo.
+Check [Project Website](https://sign-language.ai4bharat.org)
