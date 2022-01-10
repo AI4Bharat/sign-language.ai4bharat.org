@@ -9,7 +9,7 @@
 
 <footer class="footer" style="position: fixed;left: 0;bottom: 0;width: 100%;
 text-align: center;">
-        <p>Credits: <a href="http://www.islrtc.nic.in/isl-dictionary-launch">ISLRTC</a><br>
+        <p>Credits: <a href="http://www.islrtc.nic.in/isl-dictionary-launch" target="_blank">ISLRTC</a><br>
 </footer>
 
 <script>
@@ -27,6 +27,7 @@ text-align: center;">
 
                 $('#dict_searchbar').keyup(function () {
                     let result = fuse.search($(this).val());
+                    console.log(JSON.stringify(result));
                     let resultdiv = $('#dict_result');
 
                     if (result.length === 0) {
@@ -35,7 +36,7 @@ text-align: center;">
                     else {
                         resultdiv.empty();
                         for (let item in result.slice(0, 5)) {
-                            let searchitem = '<li><a href=' + result[item].item.URL + '">' + result[item].item.Title.charAt(0).toUpperCase()+ result[item].item.Title.slice(1) + '</a></li>';
+                            let searchitem = '<li><a href=' + result[item].item.URL + ' target="_blank" >' + result[item].item.Title.charAt(0).toUpperCase()+ result[item].item.Title.slice(1) + ' (' +result[item].item.Domain + ')' +'</a></li>';
                             resultdiv.append(searchitem);
                         }
                         resultdiv.show();
