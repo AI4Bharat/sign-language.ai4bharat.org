@@ -1,5 +1,6 @@
 - [Introduction](/)
 - [Project Plan](/cslr/Plan.md)
+- [Dictionary](/dictionary.md)
 - [Previous Work - INCLUDE](/INCLUDE.md)
 - [Careers/Interns](/joinus.md)
 - [Partners](/partners.md)
