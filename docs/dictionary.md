@@ -7,7 +7,7 @@
     <input id="dict_searchbar" type="text" name="search" placeholder="Search for sign.." autocomplete="off">
     <ul id='dict_result'></ul>
     <div id="yt_video">
-    <iframe src="" id="content" style="position: absolute; height: 65%; width: 55%;"></iframe>
+    <iframe src="" id="content" style="position: absolute; height: 65%; width: 55%;" allow="fullscreen;"></iframe>
     </div>
 </body>
 
@@ -36,6 +36,7 @@ text-align: center;">
                 const fuse = new Fuse(data, options);
 
                 $('#dict_searchbar').keyup(function () {
+                    $('#content').hide();
                     let result = fuse.search($(this).val());
                     let resultdiv = $('#dict_result');
 
