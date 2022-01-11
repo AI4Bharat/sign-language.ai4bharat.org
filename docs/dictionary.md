@@ -7,7 +7,7 @@
     <input id="dict_searchbar" type="text" name="search" placeholder="Search for sign.." autocomplete="off">
     <ul id='dict_result'></ul>
     <div id="yt_video">
-    <iframe src="" id="content" width="470" height="315"></iframe>
+    <iframe src="" id="content" style="position: absolute; height: 65%; width: 55%;"></iframe>
     </div>
 </body>
 
@@ -18,7 +18,6 @@ text-align: center;">
 
 <script>
         $(document).ready(function () {
-
             $('iframe').each(function() {
                     if ($(this).attr('src') == '') {
                         $(this).hide();
