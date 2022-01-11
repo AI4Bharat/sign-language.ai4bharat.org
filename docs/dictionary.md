@@ -18,6 +18,9 @@ text-align: center;">
 
 <script>
         $(document).ready(function () {
+
+            videos_data_url = "https://raw.githubusercontent.com/AI4Bharat/sign-language.ai4bharat.org/master/data/ISLRTC_videos.json"
+            
             $('iframe').each(function() {
                     if ($(this).attr('src') == '') {
                         $(this).hide();
@@ -32,7 +35,7 @@ text-align: center;">
                 ]
             };
 
-            $.getJSON("https://raw.githubusercontent.com/Prem-kumar27/Demo/main/ISLRTC_videos.json", function (data) {
+            $.getJSON(videos_data_url, function (data) {
                 const fuse = new Fuse(data, options);
 
                 $('#dict_searchbar').keyup(function () {
@@ -46,7 +49,7 @@ text-align: center;">
                     else {
                         resultdiv.empty();
                         for (let item in result.slice(0, 5)) {
-                            let searchitem = '<li><a href=' + result[item].item.URL + ' >' + result[item].item.Title.charAt(0).toUpperCase()+ result[item].item.Title.slice(1) + ' (' +result[item].item.Domain + ')' +'</a></li>';
+                            let searchitem = '<li><a href=' + result[item].item.URL + ' >' + result[item].item.Title + ' (' +result[item].item.Domain + ')' +'</a></li>';
                             resultdiv.append(searchitem);
                         }
                         resultdiv.show();
