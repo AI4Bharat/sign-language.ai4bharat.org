@@ -30,6 +30,7 @@ text-align: center;">
             const options = {
                 isCaseSensitive: false,
                 shouldSort: true,
+                ignoreLocation: true,
                 keys: [
                     "Title",
                 ]
