@@ -4,10 +4,10 @@
     <h2 style="text-align: center;">ISL Dictionary by ISLRTC</h2>
     <p>Please type a keyword for which you would like to see the sign</p>
     <br/>
-    <input id="dict_searchbar" type="text" name="search" placeholder="Search for sign.." autocomplete="off">
+    <input type="search" class="form-control rounded" id="dict_searchbar" type="text" name="search" placeholder="Search for sign.." autocomplete="off">
     <ul id='dict_result'></ul>
-    <div id="yt_video">
-    <iframe src="" id="content" style="position: absolute; height: 65%; width: 55%;" allow="fullscreen;"></iframe>
+    <div id="yt_video" style="position: relative;padding-bottom: 56.25%;padding-top: 2px;height: 0;">
+        <iframe src="" id="content" style="position: absolute; height: 65%; width: 60%;" allow="fullscreen;"></iframe>
     </div>
 </body>
 
@@ -50,7 +50,14 @@ text-align: center;">
                     else {
                         resultdiv.empty();
                         for (let item in result.slice(0, 5)) {
-                            let searchitem = '<li><a href=' + result[item].item.URL + ' >' + result[item].item.Title + ' (' +result[item].item.Domain + ')' +'</a></li>';
+                            let searchitem = ""
+                            if(result[item].item.Domain == ""){
+                                searchitem = '<li><a href=' + result[item].item.URL + ' >' + result[item].item.Title +'</a></li>';
+                            }
+                            else
+                            {
+                                searchitem = '<li><a href=' + result[item].item.URL + ' >' + result[item].item.Title + ' (' +result[item].item.Domain + ')' +'</a></li>';
+                            }
                             resultdiv.append(searchitem);
                         }
                         resultdiv.show();
