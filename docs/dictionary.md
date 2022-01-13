@@ -30,6 +30,7 @@ text-align: center;">
                 isCaseSensitive: false,
                 shouldSort: true,
                 ignoreLocation: true,
+                // includeScore: true,
                 keys: [
                     "Title",
                 ]
@@ -38,9 +39,46 @@ text-align: center;">
             $.getJSON(videos_data_url, function (data) {
                 const fuse = new Fuse(data, options);
 
+                function rerank(search_term, search_results, max_terms=5) {
+                    let final_results = [];
+                    let exact_match_indices = new Set();
+                    const partial_pattern = new RegExp(search_term, 'gi');
+                    const exact_pattern = new RegExp("([\\W]|^)" + search_term + "([\\W]|$)", 'gi');
+                    for (i = 0; i < search_results.length; i++) {
+                        title = search_results[i].item.Title;
+                        if (!title.match(partial_pattern)) {
+                            break;
+                        }
+
+                        if (title.match(exact_pattern)) {
+                            final_results.push(search_results[i]);
+                            exact_match_indices.add(i);
+                            if (final_results.length >= max_terms) {
+                                return final_results;
+                            }
+                        }
+                    }
+
+                    if (exact_match_indices.size > 0) {
+                        for (i = 0; i < search_results.length; i++) {
+                            if (exact_match_indices.has(i)) {
+                                continue;
+                            }
+                            final_results.push(search_results[i]);
+                            if (final_results.length >= max_terms) {
+                                break;
+                            }
+                        }
+                        return final_results;
+                    } else {
+                        return search_results.slice(0, max_terms);
+                    }
+                }
+
                 $('#dict_searchbar').keyup(function () {
                     $('#content').hide();
-                    let result = fuse.search($(this).val());
+                    const search_term = $(this).val();
+                    let result = fuse.search(search_term);
                     let resultdiv = $('#dict_result');
 
                     if (result.length === 0) {
@@ -48,14 +86,15 @@ text-align: center;">
                     }
                     else {
                         resultdiv.empty();
-                        for (let item in result.slice(0, 5)) {
-                            let searchitem = ""
-                            if(result[item].item.Domain == ""){
-                                searchitem = '<li><a href=' + result[item].item.URL + ' >' + result[item].item.Title +'</a></li>';
+                        result = rerank(search_term, result, 5);
+                        for (i=0; i<result.length; i++) {
+                            let searchitem = "";
+                            if(result[i].item.Domain) {
+                                searchitem = '<li><a href=' + result[i].item.URL + ' >' + result[i].item.Title + ' (' +result[i].item.Domain + ')' +'</a></li>';
                             }
                             else
                             {
-                                searchitem = '<li><a href=' + result[item].item.URL + ' >' + result[item].item.Title + ' (' +result[item].item.Domain + ')' +'</a></li>';
+                                searchitem = '<li><a href=' + result[i].item.URL + ' >' + result[i].item.Title +'</a></li>';
                             }
                             resultdiv.append(searchitem);
                         }
