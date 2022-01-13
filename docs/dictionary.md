@@ -3,7 +3,7 @@
 <body>
     <h2 style="text-align: center;">ISL Dictionary by ISLRTC</h2>
     <p>Please type a keyword for which you would like to see the sign</p>
-    <input type="search" class="form-control rounded" id="dict_searchbar" type="text" name="search" placeholder="Search for sign.." autocomplete="off">
+    <input type="search" id="dict_searchbar" style="color: white;" placeholder="Search for sign.." autocomplete="off">
     <ul id='dict_result'></ul>
     <div class="video-container">
         <iframe src="" id="content" allow="fullscreen;"></iframe>
