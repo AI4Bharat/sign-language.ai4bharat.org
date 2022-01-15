@@ -10,15 +10,18 @@
     </div>
 </body>
 
-<footer class="footer" style="position: fixed;left: 0;bottom: 0;width: 100%;
-text-align: center;">
-        <p>Credits: <a href="http://www.islrtc.nic.in/isl-dictionary-launch" target="_blank">ISLRTC</a><br>
+<footer class="footer">
+    <div class="footer-copyright">
+        <div class="container">
+        <p style="font-size:0.8vw">Credits: <a href="http://www.islrtc.nic.in/isl-dictionary-launch" target="_blank">ISLRTC</a> & <a href="https://indiansignlanguage.org/" target="_blank">RKMVERI</a> & <a href="https://winvinayafoundation.org/" target="_blank">WinVinaya</a><br>
+        </div>
+    </div>
 </footer>
 
 <script>
         $(document).ready(function () {
 
-            videos_data_url = "https://raw.githubusercontent.com/AI4Bharat/sign-language.ai4bharat.org/master/data/ISLRTC_videos.json"
+            videos_data_url = "https://raw.githubusercontent.com/AI4Bharat/sign-language.ai4bharat.org/master/data/all_videos.json"
             
             $('iframe').each(function() {
                     if ($(this).attr('src') == '') {
@@ -90,11 +93,11 @@ text-align: center;">
                         for (i=0; i<result.length; i++) {
                             let searchitem = "";
                             if(result[i].item.Domain) {
-                                searchitem = '<li><a href=' + result[i].item.URL + ' >' + result[i].item.Title + ' (' +result[i].item.Domain + ')' +'</a></li>';
+                                searchitem = '<li><a href=' + result[i].item.URL + ' >' + result[i].item.Title + ' (' +result[i].item.Domain + ')' + ' -- by ' + result[i].item.Source +'</a></li>';
                             }
                             else
                             {
-                                searchitem = '<li><a href=' + result[i].item.URL + ' >' + result[i].item.Title +'</a></li>';
+                                searchitem = '<li><a href=' + result[i].item.URL + ' >' + result[i].item.Title + ' -- by ' + result[i].item.Source + '</a></li>';
                             }
                             resultdiv.append(searchitem);
                         }
